@@ -24,7 +24,7 @@
           "text1": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Lvl player officiel",
           "text2": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x5\n- Hatching x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTICS</>\n- XP x1\n- Taming x10\n- Farming x5\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Stam x10 n- Weight x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Official Lvl player",
           "text3": "- spyglass\n- cryopod/cryofridge (no delete dinos)\n- Automated\n- solofarm\n- Shop (F5)",
-          "text4": "- F5",
+          "text4": "- F6",
           "imageurl": "https://i.imgur.com/ogkgfFj.png"
         }
       }
