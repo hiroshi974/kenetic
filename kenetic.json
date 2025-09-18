@@ -44,7 +44,8 @@
     "Tab1Title1": "Bonjour",
     "Tab1Title2": "",
     "Tab1Title3": "",
-    "Tab2Title1": "info",
+    "Tab2Title1": "
+    info",
     "Tab2Title2": "",
     "Tab2Title3": "",
     "Tab3Title1": "",
@@ -56,17 +57,12 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "This UI is unedited. Pls contact an Admin.
-
-Are you an Admin?
-Follow these steps:
-- enablecheats youradminpassword (login as admin)
-- Admin icon visible
-- Use the buttons in the bottom right corner.
-- <TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Lvl player officiel ",
+    "Tab1Text1": "
+- infos</>\n- 10 players\n\nBREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\nSTATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\nMultiplicateur par niveau</> PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\nMultiplicateur par niveau</>  DINO TAME</>\n- poid x100\n\nLEVEL</>\n- Lvl dino wild 150 max </>\n- Lvl dino tame 300 max\n- Lvl player officiel ",
     "Tab1Text2": "",
     "Tab1Text3": "",
-    "Tab2Text1": "good",
+    "Tab2Text1": " 
+    good ",
     "Tab2Text2": "",
     "Tab2Text3": "",
     "Tab3Text1": "",
@@ -79,6 +75,7 @@ Follow these steps:
     "Tab5Text2": "",
     "Tab5Text3": ""
 }
+
 
 
 
