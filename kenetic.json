@@ -1,7 +1,7 @@
 {
-    "ServerName": "Editable Server UI",
-    "ButtonTxt1": "Welcome",
-    "ButtonTxt2": "bonjour",
+    "ServerName": "cluster KdX",
+    "ButtonTxt1": "bonjour",
+    "ButtonTxt2": "",
     "ButtonTxt3": "",
     "ButtonTxt4": "",
     "ButtonTxt5": "",
@@ -42,7 +42,7 @@
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
     "Tab1Title1": "Welcome",
-    "Tab1Title2": "",
+    "Tab1Title2": "LA",
     "Tab1Title3": "",
     "Tab2Title1": "",
     "Tab2Title2": "",
@@ -63,8 +63,8 @@ Follow these steps:
 - enablecheats youradminpassword (login as admin)
 - Admin icon visible
 - Use the buttons in the bottom right corner.",
-    "Tab1Text2": "",
-    "Tab1Text3": "",
+    "Tab1Text2": "ICI",
+    "Tab1Text3": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Lvl player officiel",
     "Tab2Text1": "",
     "Tab2Text2": "",
     "Tab2Text3": "",
@@ -78,4 +78,5 @@ Follow these steps:
     "Tab5Text2": "",
     "Tab5Text3": ""
 }
+
 
