@@ -59,7 +59,7 @@
     "Tab1Text1": "
 - infos\n- 4 players\n\nBREEDING\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\nSTATISTIQUE\n- XP x1\n- Taming x5\n- Farming x5\n\nMultiplicateur par niveau PLAYER\n- Stam x10\n- Poid x100\n- Resistance x10\n\nMultiplicateur par niveau  DINO TAME\n- poid x100\n\nLEVEL\n- Lvl dino wild 150 max \n- Lvl dino tame 300 max\n- Lvl player officiel ",
     "Tab1Text2": "
-- spyglass\n- S+\n- solofarm\n- Shop (F5)",
+- spyglass\n- S+\n- solofarm\n- Dino storage V2\n- Shop (F5)",
     "Tab1Text3": "",
     "Tab2Text1": "",
     "Tab2Text2": "",
@@ -74,6 +74,7 @@
     "Tab5Text2": "",
     "Tab5Text3": ""
 }
+
 
 
 
