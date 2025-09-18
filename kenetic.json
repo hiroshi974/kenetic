@@ -1,47 +1,81 @@
 {
-  "WBUI2": {
-    "settings": {
-      "OpenButton": 4,
-      "HideIcon": false,
-      "HideIconAfter": 60,
-      "IconURL": "https://i.imgur.com/GJNVECf.png",
-      "DisableIconText": false,
-      "IconPosition": 0,
-      "IconTextColor": 0,
-      "OpenOnStart": true,
-      "OpenOnStartOnlyNewPlayers": true,
-      "UpdateInterval": 12
-    },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 4,
-          "buttontext": "info",
-          "title1": "[FR] setting server",
-          "title2": "[EN] setting server",
-          "title3": "Mods Server",
-          "title4": "info shop",
-          "text1": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Lvl player officiel",
-          "text2": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x5\n- Hatching x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTICS</>\n- XP x1\n- Taming x10\n- Farming x5\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Stam x10 n- Weight x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Official Lvl player",
-          "text3": "- spyglass\n- cryopod/cryofridge (no delete dinos)\n- Automated\n- solofarm\n- Shop (F5)",
-          "text4": "- F6",
-          "imageurl": "https://i.imgur.com/ogkgfFj.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Link to discord",
-          "url": "https://discord.gg/Mffce2VfXH"
-        }
-      },
-      {
-        "link2": {
-          "text": "Link to shop web",
-          "url": "https://kdxclusterpve.tip4serv.com/"
-        }
-      }
-    ]
-  }
+    "ServerName": "Editable Server UI",
+    "ButtonTxt1": "Welcome",
+    "ButtonTxt2": "",
+    "ButtonTxt3": "",
+    "ButtonTxt4": "",
+    "ButtonTxt5": "",
+    "LinkButtonTxt1": "WBUI",
+    "LinkButtonTxt2": "",
+    "LinkButtonTxt3": "",
+    "LinkButtonTxt4": "",
+    "LinkButtonTxt5": "",
+    "LinkButton1": "http://steamcommunity.com/sharedfiles/filedetails/?id=924619115",
+    "LinkButton2": "",
+    "Link1Button3": "",
+    "Link2Button3": "",
+    "Link3Button3": "",
+    "Link4Button3": "",
+    "Link1Button4": "",
+    "Link2Button4": "",
+    "Link3Button4": "",
+    "Link4Button4": "",
+    "Link1Button5": "",
+    "Link2Button5": "",
+    "Link3Button5": "",
+    "Link4Button5": "",
+    "Tab1Panelcount": 1,
+    "Tab2Panelcount": 1,
+    "Tab3Panelcount": 1,
+    "Tab4Panelcount": 1,
+    "Tab5Panelcount": 1,
+    "BackgroundTab1": 0,
+    "BackgroundTab2": 0,
+    "BackgroundTab3": 0,
+    "BackgroundTab4": 0,
+    "BackgroundTab5": 0,
+    "Background3Color": "0,0,255,0.5",
+    "FontColorButtons": "255,255,255",
+    "FontColorServerName": "255,95,0",
+    "FontColorTabTitles": "20,255,0",
+    "FontColorTabText": "255,255,255",
+    "UseSteamBrowserLink1": false,
+    "UseSteamBrowserLink2": false,
+    "Tab1Title1": "Welcome",
+    "Tab1Title2": "",
+    "Tab1Title3": "",
+    "Tab2Title1": "",
+    "Tab2Title2": "",
+    "Tab2Title3": "",
+    "Tab3Title1": "",
+    "Tab3Title2": "",
+    "Tab3Title3": "",
+    "Tab4Title1": "",
+    "Tab4Title2": "",
+    "Tab4Title3": "",
+    "Tab5Title1": "",
+    "Tab5Title2": "",
+    "Tab5Title3": "",
+    "Tab1Text1": "This UI is unedited. Pls contact an Admin.
+
+Are you an Admin?
+Follow these steps:
+- enablecheats youradminpassword (login as admin)
+- Admin icon visible
+- Use the buttons in the bottom right corner.",
+    "Tab1Text2": "",
+    "Tab1Text3": "",
+    "Tab2Text1": "",
+    "Tab2Text2": "",
+    "Tab2Text3": "",
+    "Tab3Text1": "",
+    "Tab3Text2": "",
+    "Tab3Text3": "",
+    "Tab4Text1": "",
+    "Tab4Text2": "",
+    "Tab4Text3": "",
+    "Tab5Text1": "",
+    "Tab5Text2": "",
+    "Tab5Text3": ""
 }
+
