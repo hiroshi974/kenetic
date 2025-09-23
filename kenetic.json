@@ -44,8 +44,8 @@
     "Tab1Title1": "info",
     "Tab1Title2": "modds / plugins",
     "Tab1Title3": "",
-    "Tab2Title1": "",
-    "Tab2Title2": "",
+    "Tab2Title1": "modd",
+    "Tab2Title2": "plugin",
     "Tab2Title3": "",
     "Tab3Title1": "",
     "Tab3Title2": "",
@@ -61,7 +61,35 @@
     "Tab1Text2": "
 - spyglass\n- S+\n- solofarm\n- Dino storage V2\n- Shop (F5)",
     "Tab1Text3": "",
-    "Tab2Text1": "",
+    "Tab2Text1": "
+- [AwesomeSpyGlass]
+AllowGPS=True
+AllowCrosshair=True
+AllowFoodList=True
+AllowBuffList=False
+AllowItemList=False
+AllowOutline=False
+AllowPlayerTargeting=False
+AllowStructureTargeting=True
+AllowCrateTargeting=False
+AllowLootTargeting=False
+AllowEggTargeting=False
+- [Dinostarge V2]
+ExcludeBoss=Vrai	Généralement trop puissants pour être libérés instantanément. Les cryopodes empêchent également ce phénomène.
+ExcludeCorrupted=Vrai	Généralement trop puissants pour être libérés instantanément. Les cryopodes empêchent également ce phénomène.
+ExcludeEnragedGiga=Vrai	Le processus de capture/libération supprime leur rage. Les cryopodes le permettent, mais la capture est plus longue.
+ExcludeRaid=Vrai	Généralement trop puissants pour être libérés instantanément. Les cryopodes empêchent également ce phénomène.
+ExcludeUnclaimed=Vrai	Empêche les frasques avec le pistolet à âmes et les fenêtres. Les cryopodes empêchent également cela.
+LockImprinter=Vrai	Empêche le transfert de propriété de l'empreinte. Les cryopodes empêchent également ce phénomène.
+KeepCuddleType=Vrai	Le piège/relâchement ne modifie pas le type de câlin requis pour les bébés. Les cryopodes permettent cette modification.
+TrapHurtTime=0,15	Empêche le piégeage si le dinosaure a été blessé au cours des 9 dernières secondes.
+TrapTamedTime=0,15	Empêche le piégeage si le dinosaure a été apprivoisé au cours des 9 dernières secondes.
+UseCryoSickness=True	Empêche les raids aériens et les cryopodes jouent en sa faveur.
+UseCryoNerf=True	Ajoute un debuff de libération sur le dino lorsqu'il est libéré (doit également activer la configuration WC).
+NoBossArenaTrap=Vrai	Empêche la possibilité de sauver les dinosaures lorsqu'ils sont blessés.
+Poids de traînée de l'âme = 0,1	Les âmes pèseront 10 % du poids de traînée du dinosaure stocké.
+PoidsMaximumSoul=150	Le poids de l'âme ne dépassera pas 150, car de nombreux dinosaures aquatiques ont des poids de traînée fous.
+MaladieDeLaBase=10.0	Vous permet de ne pas tomber malade lorsque vous êtes libéré dans votre base, mais d'attaquer/défendre judicieusement !",
     "Tab2Text2": "",
     "Tab2Text3": "",
     "Tab3Text1": "",
@@ -74,6 +102,7 @@
     "Tab5Text2": "",
     "Tab5Text3": ""
 }
+
 
 
 
