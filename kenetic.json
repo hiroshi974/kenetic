@@ -1,7 +1,7 @@
 {
     "ServerName": "cluster KdX",
     "ButtonTxt1": "bonjour",
-    "ButtonTxt2": "",
+    "ButtonTxt2": "info modd/plugin",
     "ButtonTxt3": "",
     "ButtonTxt4": "",
     "ButtonTxt5": "",
@@ -25,7 +25,7 @@
     "Link3Button5": "",
     "Link4Button5": "",
     "Tab1Panelcount": 2,
-    "Tab2Panelcount": 1,
+    "Tab2Panelcount": 2,
     "Tab3Panelcount": 1,
     "Tab4Panelcount": 1,
     "Tab5Panelcount": 1,
@@ -74,6 +74,7 @@
     "Tab5Text2": "",
     "Tab5Text3": ""
 }
+
 
 
 
