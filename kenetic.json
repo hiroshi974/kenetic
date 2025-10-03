@@ -59,7 +59,7 @@
     "Tab1Text1": "
 - infos\n- 4 players\n\nBREEDING\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\nSTATISTIQUE\n- XP x1\n- Taming x5\n- Farming x5\n\nMultiplicateur par niveau PLAYER\n- Stam x10\n- Poid x100\n- Resistance x10\n\nMultiplicateur par niveau  DINO TAME\n- poid x100\n\nLEVEL\n- Lvl dino wild 150 max \n- Lvl dino tame 300 max\n- Lvl player officiel ",
     "Tab1Text2": "
-- spyglass\n- S+\n- solofarm\n- Dino storage V2\n- Shop (F5)",
+- spyglass\n- S+\n- solofarm\n- Dino storage V2\n- Shop (F5)\n- Dino utilities",
     "Tab1Text3": "",
     "Tab2Text1": "
 - [AwesomeSpyGlass]
@@ -90,7 +90,128 @@ NoBossArenaTrap=Vrai	Empêche la possibilité de sauver les dinosaures lorsqu'il
 Poids de traînée de l'âme = 0,1	Les âmes pèseront 10 % du poids de traînée du dinosaure stocké.
 PoidsMaximumSoul=150	Le poids de l'âme ne dépassera pas 150, car de nombreux dinosaures aquatiques ont des poids de traînée fous.
 MaladieDeLaBase=10.0	Vous permet de ne pas tomber malade lorsque vous êtes libéré dans votre base, mais d'attaquer/défendre judicieusement !",
-    "Tab2Text2": "",
+    "Tab2Text2": "
+Dino utilities :
+DinoChangeGender
+ChatCommand: /cg
+TokenName: DinoChangeGender
+Price: 0
+
+DinoClaimBabies
+ChatCommand: /claimbabies
+TokenName: DinoClaimBabies
+Price: 0
+
+DinoFastpodRange
+ChatCommand: /pods
+TokenName: DinoFastpodRange
+Price: 150
+
+DinoFastpodSingle
+ChatCommand: /pod
+TokenName: DinoFastpodSingle
+Price: 50
+
+DinoFeedRange
+ChatCommand: /feed
+TokenName: DinoFeedRange
+Price: 0
+
+DinoFertile
+ChatCommand: /fertile
+TokenName: DinoFertile
+Price: 0
+
+DinoFertileRange
+ChatCommand: /fertiledinos
+TokenName: DinoFertileRange
+Price: 0
+
+DinoFinishClone
+ChatCommand: /finishclone
+TokenName: DinoFinishClone
+Price: 1500
+
+DinoHatchEgg
+ChatCommand: /hatch
+TokenName: DinoHatchEgg
+Price: 0
+
+DinoHaveBaby
+ChatCommand: /givebirth
+TokenName: DinoHaveBaby
+Price: 0
+
+DinoImprint
+ChatCommand: /imprint
+TokenName: DinoImprint
+Price: 500
+
+DinoImprintChange
+ChatCommand: /imprintchange
+TokenName: DinoImprintChange
+Price: 800
+
+DinoKill
+ChatCommand: /dkill
+TokenName: DinoKill
+Price: 0
+
+DinoMate
+ChatCommand: /matedinos
+TokenName: DinoMate
+Price: 200
+
+DinoMateNow
+ChatCommand: /matenow
+TokenName: DinoMateNow
+Price: 500
+
+DinoMindWipe
+ChatCommand: /dmindwipe
+TokenName: DinoMindWipe
+Price: 200
+
+DinoNeuter
+ChatCommand: /neuter
+TokenName: DinoNeuter
+Price: 0
+
+DinoNeuterRange
+ChatCommand: /neuterdinos
+TokenName: DinoNeuterRange
+Price: 0
+
+DinoNoMate
+ChatCommand: /nomatedinos
+TokenName: DinoNoMate
+Price: 200
+
+DinoRaiseBaby
+ChatCommand: /raisebaby
+TokenName: DinoRaiseBaby
+Price: 0
+
+DinoRenameRange
+ChatCommand: /renamedinos
+TokenName: DinoRenameRange
+Price: 5000
+
+DinoResetMating
+ChatCommand: /resetmating
+TokenName: DinoResetMating
+Price: 1000
+
+DinoTurretMode
+ChatCommand: /turretmode
+TokenName: DinoTurretMode
+Price: 500
+
+DinoWake
+ChatCommand: /wake
+TokenName: DinoWake
+Price: 400
+",
     "Tab2Text3": "",
     "Tab3Text1": "",
     "Tab3Text2": "",
@@ -102,6 +223,7 @@ MaladieDeLaBase=10.0	Vous permet de ne pas tomber malade lorsque vous êtes lib�
     "Tab5Text2": "",
     "Tab5Text3": ""
 }
+
 
 
 
