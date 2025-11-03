@@ -1,237 +1,47 @@
 {
-    "ServerName": "cluster KdX",
-    "ButtonTxt1": "bonjour",
-    "ButtonTxt2": "info modd/plugin",
-    "ButtonTxt3": "",
-    "ButtonTxt4": "",
-    "ButtonTxt5": "",
-    "LinkButtonTxt1": "WBUI",
-    "LinkButtonTxt2": "shop",
-    "LinkButtonTxt3": "discord",
-    "LinkButtonTxt4": "",
-    "LinkButtonTxt5": "",
-    "LinkButton1": "http://steamcommunity.com/sharedfiles/filedetails/?id=924619115",
-    "LinkButton2": "https://kdxclusterpve.tip4serv.com/",
-    "Link1Button3": "https://discord.gg/Mffce2VfXH",
-    "Link2Button3": "",
-    "Link3Button3": "",
-    "Link4Button3": "",
-    "Link1Button4": "",
-    "Link2Button4": "",
-    "Link3Button4": "",
-    "Link4Button4": "",
-    "Link1Button5": "",
-    "Link2Button5": "",
-    "Link3Button5": "",
-    "Link4Button5": "",
-    "Tab1Panelcount": 2,
-    "Tab2Panelcount": 2,
-    "Tab3Panelcount": 1,
-    "Tab4Panelcount": 1,
-    "Tab5Panelcount": 1,
-    "BackgroundTab1": 14,
-    "BackgroundTab2": 5,
-    "BackgroundTab3": 0,
-    "BackgroundTab4": 0,
-    "BackgroundTab5": 0,
-    "Background3Color": "0,0,255,0.5",
-    "FontColorButtons": "255,255,255",
-    "FontColorServerName": "255,95,0",
-    "FontColorTabTitles": "20,255,0",
-    "FontColorTabText": "255,255,255",
-    "UseSteamBrowserLink1": false,
-    "UseSteamBrowserLink2": false,
-    "Tab1Title1": "info",
-    "Tab1Title2": "modds / plugins",
-    "Tab1Title3": "",
-    "Tab2Title1": "modd",
-    "Tab2Title2": "plugin",
-    "Tab2Title3": "",
-    "Tab3Title1": "",
-    "Tab3Title2": "",
-    "Tab3Title3": "",
-    "Tab4Title1": "",
-    "Tab4Title2": "",
-    "Tab4Title3": "",
-    "Tab5Title1": "",
-    "Tab5Title2": "",
-    "Tab5Title3": "",
-    "Tab1Text1": "
-- infos\n- 4 players\n\nBREEDING\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\nSTATISTIQUE\n- XP x1\n- Taming x5\n- Farming x5\n\nMultiplicateur par niveau PLAYER\n- Stam x10\n- Poid x100\n- Resistance x10\n\nMultiplicateur par niveau  DINO TAME\n- poid x100\n\nLEVEL\n- Lvl dino wild 150 max \n- Lvl dino tame 300 max\n- Lvl player officiel ",
-    "Tab1Text2": "
-- spyglass\n- S+\n- solofarm\n- Dino storage V2\n- Shop (F5)\n- Dino utilities",
-    "Tab1Text3": "",
-    "Tab2Text1": "
-- [AwesomeSpyGlass]
-AllowGPS=True
-AllowCrosshair=True
-AllowFoodList=True
-AllowBuffList=False
-AllowItemList=False
-AllowOutline=False
-AllowPlayerTargeting=False
-AllowStructureTargeting=True
-AllowCrateTargeting=False
-AllowLootTargeting=False
-AllowEggTargeting=False
-- [Dinostarge V2]
-ExcludeBoss=Vrai	Généralement trop puissants pour être libérés instantanément. Les cryopodes empêchent également ce phénomène.
-ExcludeCorrupted=Vrai	Généralement trop puissants pour être libérés instantanément. Les cryopodes empêchent également ce phénomène.
-ExcludeEnragedGiga=Vrai	Le processus de capture/libération supprime leur rage. Les cryopodes le permettent, mais la capture est plus longue.
-ExcludeRaid=Vrai	Généralement trop puissants pour être libérés instantanément. Les cryopodes empêchent également ce phénomène.
-ExcludeUnclaimed=Vrai	Empêche les frasques avec le pistolet à âmes et les fenêtres. Les cryopodes empêchent également cela.
-LockImprinter=Vrai	Empêche le transfert de propriété de l'empreinte. Les cryopodes empêchent également ce phénomène.
-KeepCuddleType=Vrai	Le piège/relâchement ne modifie pas le type de câlin requis pour les bébés. Les cryopodes permettent cette modification.
-TrapHurtTime=0,15	Empêche le piégeage si le dinosaure a été blessé au cours des 9 dernières secondes.
-TrapTamedTime=0,15	Empêche le piégeage si le dinosaure a été apprivoisé au cours des 9 dernières secondes.
-UseCryoSickness=True	Empêche les raids aériens et les cryopodes jouent en sa faveur.
-UseCryoNerf=True	Ajoute un debuff de libération sur le dino lorsqu'il est libéré (doit également activer la configuration WC).
-NoBossArenaTrap=Vrai	Empêche la possibilité de sauver les dinosaures lorsqu'ils sont blessés.
-Poids de traînée de l'âme = 0,1	Les âmes pèseront 10 % du poids de traînée du dinosaure stocké.
-PoidsMaximumSoul=150	Le poids de l'âme ne dépassera pas 150, car de nombreux dinosaures aquatiques ont des poids de traînée fous.
-MaladieDeLaBase=10.0	Vous permet de ne pas tomber malade lorsque vous êtes libéré dans votre base, mais d'attaquer/défendre judicieusement !",
-    "Tab2Text2": "
-Dino utilities :
-DinoChangeGender
-ChatCommand: /cg
-TokenName: DinoChangeGender
-Price: 0
-
-DinoClaimBabies
-ChatCommand: /claimbabies
-TokenName: DinoClaimBabies
-Price: 0
-
-DinoFastpodRange
-ChatCommand: /pods
-TokenName: DinoFastpodRange
-Price: 150
-
-DinoFastpodSingle
-ChatCommand: /pod
-TokenName: DinoFastpodSingle
-Price: 50
-
-DinoFeedRange
-ChatCommand: /feed
-TokenName: DinoFeedRange
-Price: 0
-
-DinoFertile
-ChatCommand: /fertile
-TokenName: DinoFertile
-Price: 0
-
-DinoFertileRange
-ChatCommand: /fertiledinos
-TokenName: DinoFertileRange
-Price: 0
-
-DinoFinishClone
-ChatCommand: /finishclone
-TokenName: DinoFinishClone
-Price: 1500
-
-DinoHatchEgg
-ChatCommand: /hatch
-TokenName: DinoHatchEgg
-Price: 0
-
-DinoHaveBaby
-ChatCommand: /givebirth
-TokenName: DinoHaveBaby
-Price: 0
-
-DinoImprint
-ChatCommand: /imprint
-TokenName: DinoImprint
-Price: 500
-
-DinoImprintChange
-ChatCommand: /imprintchange
-TokenName: DinoImprintChange
-Price: 800
-
-DinoKill
-ChatCommand: /dkill
-TokenName: DinoKill
-Price: 0
-
-DinoMate
-ChatCommand: /matedinos
-TokenName: DinoMate
-Price: 200
-
-DinoMateNow
-ChatCommand: /matenow
-TokenName: DinoMateNow
-Price: 500
-
-DinoMindWipe
-ChatCommand: /dmindwipe
-TokenName: DinoMindWipe
-Price: 200
-
-DinoNeuter
-ChatCommand: /neuter
-TokenName: DinoNeuter
-Price: 0
-
-DinoNeuterRange
-ChatCommand: /neuterdinos
-TokenName: DinoNeuterRange
-Price: 0
-
-DinoNoMate
-ChatCommand: /nomatedinos
-TokenName: DinoNoMate
-Price: 200
-
-DinoRaiseBaby
-ChatCommand: /raisebaby
-TokenName: DinoRaiseBaby
-Price: 0
-
-DinoRenameRange
-ChatCommand: /renamedinos
-TokenName: DinoRenameRange
-Price: 5000
-
-DinoResetMating
-ChatCommand: /resetmating
-TokenName: DinoResetMating
-Price: 1000
-
-DinoTurretMode
-ChatCommand: /turretmode
-TokenName: DinoTurretMode
-Price: 500
-
-DinoWake
-ChatCommand: /wake
-TokenName: DinoWake
-Price: 400
-",
-    "Tab2Text3": "",
-    "Tab3Text1": "",
-    "Tab3Text2": "",
-    "Tab3Text3": "",
-    "Tab4Text1": "",
-    "Tab4Text2": "",
-    "Tab4Text3": "",
-    "Tab5Text1": "",
-    "Tab5Text2": "",
-    "Tab5Text3": ""
+  "WBUI2": {
+    "settings": {
+      "OpenButton": 0,
+      "HideIcon": false,
+      "HideIconAfter": 60,
+      "IconURL": "https://i.imgur.com/GJNVECf.png",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 0,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 4,
+          "buttontext": "info",
+          "title1": "[FR] setting server",
+          "title2": "[EN] setting server",
+          "title3": "Mods Server",
+          "title4": "info shop",
+          "text1": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Lvl player officiel",
+          "text2": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x5\n- Hatching x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTICS</>\n- XP x1\n- Taming x10\n- Farming x5\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Stam x10 n- Weight x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Official Lvl player",
+          "text3": "- spyglass\n- cryopod/cryofridge (no delete dinos)\n- K+\n- solofarm\n- Shop (F5)",
+          "text4": "- F5",
+          "imageurl": "https://i.imgur.com/ogkgfFj.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to discord",
+          "url": "https://discord.gg/VjkawXHJJ7"
+        }
+      },
+      {
+        "link2": {
+          "text": "Link to shop web",
+          "url": "https://kenetic.tip4serv.com/"
+        }
+      }
+    ]
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
