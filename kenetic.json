@@ -21,9 +21,19 @@
           "title2": "[EN] setting server",
           "title3": "Mods Server",
           "title4": "info shop",
-          "text1": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Lvl player officiel",
-          "text2": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x5\n- Hatching x5\n- Maturation x5\n\n<TextStyle.Yellow>STATISTICS</>\n- XP x1\n- Taming x10\n- Farming x5\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Stam x10 n- Weight x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Official Lvl player",
-          "text3": "- spyglass\n- cryopod/cryofridge (no delete dinos)\n- K+\n- solofarm\n- Shop (F6)",
+          "text1": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x10\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Lvl player officiel",
+          "text2": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x5\n- Hatching x5\n- Maturation x10\n\n<TextStyle.Yellow>STATISTICS</>\n- XP x1\n- Taming x10\n- Farming x5\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Stam x10 n- Weight x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 150 max <TextStyle.Blue></>\n- Lvl dino tame 300 max\n- Official Lvl player",
+          "text3": "- Cybers Structures QoL+ (Crossplay),940975,https://www.curseforge.com/ark-survival-ascended/mods/cybers-structures/download/6365614/n
+- Shiny! Dinos Ascended,928548,https://www.curseforge.com/ark-survival-ascended/mods/shiny-ascended/download/6745867/n
+- Super Spyglass Plus,929420,https://www.curseforge.com/ark-survival-ascended/mods/super-spyglass-plus/download/6562040/n
+- Admin Panel,929868,https://www.curseforge.com/ark-survival-ascended/mods/admin-panel/download/6751270/n
+- WBUI2,931119,https://www.curseforge.com/ark-survival-ascended/mods/wbui2/download/6567390/n
+- MX-E Ark Shop UI,942249,https://www.curseforge.com/ark-survival-ascended/mods/mx-e-ark-shop-ui/download/6567371/n
+- Klinger Additional Rustic Building,946694,https://www.curseforge.com/ark-survival-ascended/mods/klinger-additional-rustic-building/download/6562238/n
+- Omega Dino Storage,934343,https://www.curseforge.com/ark-survival-ascended/mods/omega-dino-storage/download/6659842/n
+- Auto Engrams!,953154,https://www.curseforge.com/ark-survival-ascended/mods/auto-engrams/download/6571078/n
+- AP: Death Recovery [Cross-platform],929578,https://www.curseforge.com/ark-survival-ascended/mods/ap-death-recovery/download/6623782/n
+- Human_NPCs_ASA,947835,https://www.curseforge.com/ark-survival-ascended/mods/human_npcs_asa/download/6748090/n- solofarm
           "text4": "- F6",
           "imageurl": "https://i.imgur.com/ogkgfFj.png"
         }
@@ -39,12 +49,13 @@
       {
         "link2": {
           "text": "Link to shop web",
-          "url": "https://kenetikclusterpve.tip4serv.com"
+          "url": "https://kenetikclusterpve.tip4serv.com/?_gl=1*29w2wb*_gcl_au*MTczMDM4NzIwNi4xNzYyNTAxNjk3LjE5NTUwMTkzNDguMTc2MjUwMTc3OC4xNzYyNTAxODYy"
         }
       }
     ]
   }
 }
+
 
 
 
