@@ -21,9 +21,9 @@
           "title2": "[EN] setting server",
           "title3": "Mods Server",
           "title4": "info shop",
-          "text1": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x10\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 180 max <TextStyle.Blue></>\n- Lvl dino tame 600 max\n- Lvl player officiel",
-          "text2": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x5\n- Hatching x5\n- Maturation x10\n\n<TextStyle.Yellow>STATISTICS</>\n- XP x1\n- Taming x10\n- Farming x5\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Stam x10 n- Weight x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 180 max <TextStyle.Blue></>\n- Lvl dino tame 600 max\n- Official Lvl player",
-          "text3": "- Cybers Structures QoL+\n- Shiny! Dinos Ascended\n- Super Spyglass Plus\n- Klinger Additional Rustic Building\n- Omega Dino Storage\n- Auto Engrams!\n- AP: Death Recovery [Cross-platform]\n- Human_NPCs_ASA\n- solofarm",
+          "text1": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x5\n- Eclosion x5\n- Maturation x10\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x1\n- Taming x5\n- Farming x5\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Poid x10\n- Resistance x1\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x10\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 180 max <TextStyle.Blue></>\n- Lvl dino tame 600 max\n- Lvl player officiel",
+          "text2": "<TextStyle.Red>infos</>\n- 4 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x5\n- Hatching x5\n- Maturation x10\n\n<TextStyle.Yellow>STATISTICS</>\n- XP x1\n- Taming x10\n- Farming x5\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Weight x10\n- Resistance x1\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 180 max <TextStyle.Blue></>\n- Lvl dino tame 600 max\n- Official Lvl player",
+          "text3": "- Cybers Structures QoL+\n- Shiny! Dinos Ascended\n- Super Spyglass Plus\n- Omega Dino Storage\n- solofarm",
           "text4": "- F6",
           "imageurl": "https://i.imgur.com/ogkgfFj.png"
         }
@@ -39,7 +39,7 @@
       {
         "link2": {
           "text": "Link to shop web",
-          "url": "https://kenetikclusterpve.tip4serv.com/?_gl=1*29w2wb*_gcl_au*MTczMDM4NzIwNi4xNzYyNTAxNjk3LjE5NTUwMTkzNDguMTc2MjUwMTc3OC4xNzYyNTAxODYy"
+          "url": "https://monarkcluster.tip4serv.com/?_gl=1*h9x45p*_gcl_au*MTYxNDg2NDgzNi4xNzkyMjQ2MTky"
         }
       }
     ]
